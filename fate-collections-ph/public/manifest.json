@@ -1,0 +1,21 @@
+{
+  "short_name": "FateCollections",
+  "name": "Fate Collections PH - Sports Card Manager",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0B0818",
+  "theme_color": "#160F2E",
+  "display": "standalone",
+  "orientation": "portrait"
+}
